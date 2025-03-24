@@ -69,8 +69,18 @@ Public Class WebService1
 
 End Class
 
+''' <summary>
+''' clase prueba
+''' </summary>
 Public Class Person
     Public Property Nombre As String
     Public Property Edad As Integer
     Public Property Ciudad As String
+End Class
+
+''' <summary>
+''' clase errores
+''' </summary>
+Public Class Errores
+    Public Property Mensaje As String
 End Class
